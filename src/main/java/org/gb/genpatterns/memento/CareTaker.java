@@ -9,6 +9,7 @@ public class CareTaker implements Mementoble{
     private Memento memento;
 
     public CareTaker(Memento memento) {
+
         this.memento = memento;
     }
 

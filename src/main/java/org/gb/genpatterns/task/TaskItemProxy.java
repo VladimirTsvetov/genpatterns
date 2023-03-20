@@ -28,6 +28,7 @@ public class TaskItemProxy implements Solvable{
 
     @Override
     public String getRemark() {
+
         return taskItem.getRemark();
     }
 

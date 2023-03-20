@@ -18,6 +18,7 @@ public class Memento implements Mementoble{
     }
 
     public TaskItem getState(){
+
         return savedTaskItem;
     }
 }

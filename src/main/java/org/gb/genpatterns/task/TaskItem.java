@@ -121,6 +121,7 @@ public class TaskItem implements Solvable, Mementoble {
             return this;
         }
         public TaskItem build(){
+
             return taskItem;
         }
     }
